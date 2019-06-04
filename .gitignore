@@ -1,0 +1,11 @@
+.envrc
+.#*
+venv
+.cache
+**/__pycache__
+**.pyc
+/build/logstash/env2yaml/env2yaml
+/build/logstash/Dockerfile*
+/docker-compose*.yml
+/.pytest_cache
+snapshots
